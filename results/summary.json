@@ -1,0 +1,107 @@
+[
+  {
+    "repo": "gap-lab4-am.sc.p2csn26008",
+    "awarded": 4.9,
+    "total": 5.5,
+    "checks": [
+      {
+        "group": "A",
+        "name": "Required files present",
+        "marks": 0.3,
+        "passed": false,
+        "note": "missing: QUESTION.md, .env.example"
+      },
+      {
+        "group": "A",
+        "name": "client.py unmodified",
+        "marks": 0.3,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "A",
+        "name": ".env ignored and never committed",
+        "marks": 0.3,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "A",
+        "name": "SPEC.md has the six headings",
+        "marks": 0.3,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "A",
+        "name": "Git: >=5 commits and the lab-4-submission tag",
+        "marks": 0.3,
+        "passed": false,
+        "note": "commits=5, tag=no"
+      },
+      {
+        "group": "B",
+        "name": "stub:ok -> ok (exit 0)",
+        "marks": 0.333,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "B",
+        "name": "stub:fenced -> ok (exit 0)",
+        "marks": 0.333,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "B",
+        "name": "stub:preamble -> ok (exit 0)",
+        "marks": 0.333,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "C",
+        "name": "stub:malformed -> invalid_output (exit 1)",
+        "marks": 0.5,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "C",
+        "name": "stub:badshape -> invalid_output (exit 1)",
+        "marks": 0.5,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "C",
+        "name": "stub:empty -> invalid_output (exit 1)",
+        "marks": 0.5,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "D",
+        "name": "stub:refused -> refused (exit 1)",
+        "marks": 0.5,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "D",
+        "name": "stub:error -> error (exit 1)",
+        "marks": 0.5,
+        "passed": true,
+        "note": ""
+      },
+      {
+        "group": "E",
+        "name": "empty topic -> exit 2, no model call",
+        "marks": 0.5,
+        "passed": true,
+        "note": ""
+      }
+    ]
+  }
+]
